@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Variables de entorno
+.env
+
+# Base de datos local
+*.db
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Visual Studio Code
+.vscode/
+
+# Archivos temporales
+*.tmp
